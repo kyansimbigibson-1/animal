@@ -1,0 +1,14 @@
+cow
+lion
+elephant
+buffalo
+rhoino
+tiger
+leopard
+cheater
+kob
+crested crane
+atelope
+:wq
+
+
